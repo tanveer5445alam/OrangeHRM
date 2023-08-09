@@ -1,0 +1,175 @@
+2023-08-09 15:04:47,625 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:04:47,626 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:04:47,626 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:04:53,950 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:04:53,954 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:04:54,334 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 18 : test case test_orange_title_001 is pass 
+2023-08-09 15:04:56,983 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 29 : test case test_orange_login_002 is start 
+2023-08-09 15:04:56,984 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 31 : open browser
+2023-08-09 15:04:56,984 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 33 : open url of orange Hrm 
+2023-08-09 15:05:02,525 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 35 : entering user name  
+2023-08-09 15:05:03,625 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 37 : entering password 
+2023-08-09 15:05:03,676 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 39 : click login button 
+2023-08-09 15:05:05,047 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 41 : checking loging status 
+2023-08-09 15:05:05,586 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 43 : taking screenshot
+2023-08-09 15:05:05,925 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 45 : click on menu button  
+2023-08-09 15:05:06,025 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 47 : click on logout button 
+2023-08-09 15:05:08,521 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 50 : test case test_orange_login_002 is pass
+2023-08-09 15:16:46,165 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:16:46,165 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:16:46,166 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:17:02,906 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:17:02,912 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:17:04,334 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:17:06,722 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:17:06,723 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:17:06,723 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:17:18,147 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:17:19,319 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:17:19,385 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:17:21,588 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:17:22,126 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:17:22,468 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 46 : click on menu button  
+2023-08-09 15:17:22,582 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 48 : click on logout button 
+2023-08-09 15:17:23,996 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 51 : test case test_orange_login_002 is pass
+2023-08-09 15:18:23,857 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:18:23,858 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:18:23,858 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:18:41,729 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:18:41,733 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:18:44,448 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:18:46,414 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:18:46,414 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:18:46,415 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:18:56,982 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:18:58,088 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:18:58,159 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:18:58,213 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:19:00,240 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:19:00,706 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 46 : click on menu button  
+2023-08-09 15:19:00,748 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 48 : click on logout button 
+2023-08-09 15:19:02,071 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 51 : test case test_orange_login_002 is pass
+2023-08-09 15:21:48,614 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:21:48,615 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:21:48,616 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:22:02,294 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:22:02,298 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:22:05,254 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:22:07,759 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:22:07,759 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:22:07,759 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:22:18,511 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:22:35,509 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:22:35,509 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:22:35,510 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:22:57,599 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:22:57,607 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:23:01,739 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:23:05,255 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:23:05,256 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:23:05,256 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:23:15,984 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:23:20,102 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:23:20,198 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:23:20,310 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:23:22,509 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:24:11,666 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:24:11,667 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:24:11,668 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:24:29,705 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:24:29,710 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:24:32,302 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:24:35,155 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:24:35,155 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:24:35,155 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:24:49,723 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:24:51,552 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:24:51,639 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:24:53,532 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:24:53,533 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 54 : taking screenshot
+2023-08-09 15:24:54,102 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 57 : test case test_orange_login_002 is fail 
+2023-08-09 15:26:11,726 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:26:11,727 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:26:11,727 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:26:21,291 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:26:21,295 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:26:23,345 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:26:25,246 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:26:25,246 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:26:25,246 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:26:36,119 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:26:37,355 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:26:37,479 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:26:37,539 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:26:39,363 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:26:39,803 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 46 : click on menu button  
+2023-08-09 15:26:39,878 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 48 : click on logout button 
+2023-08-09 15:26:41,142 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 51 : test case test_orange_login_002 is pass
+2023-08-09 15:28:59,238 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:28:59,239 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:28:59,240 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:29:15,496 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:29:15,501 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:29:17,673 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:29:20,552 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:29:20,553 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:29:20,553 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:29:33,955 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:29:35,609 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:29:35,694 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:29:35,753 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:29:37,795 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:29:38,186 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 46 : click on menu button  
+2023-08-09 15:29:38,318 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 48 : click on logout button 
+2023-08-09 15:29:39,873 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 51 : test case test_orange_login_002 is pass
+2023-08-09 15:32:59,839 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:32:59,840 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:32:59,840 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:33:08,085 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:33:08,089 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:33:10,767 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:33:14,056 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:33:14,056 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:33:14,056 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:33:19,749 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:33:20,877 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:33:20,959 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:33:21,020 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:33:23,515 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:33:23,893 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 46 : click on menu button  
+2023-08-09 15:33:23,951 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 48 : click on logout button 
+2023-08-09 15:33:25,445 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 51 : test case test_orange_login_002 is pass
+2023-08-09 15:35:10,548 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:35:10,549 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:35:10,550 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:35:18,529 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:35:18,533 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:35:21,047 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:35:23,962 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:35:23,962 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:35:23,962 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:35:35,952 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:35:37,066 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:35:37,133 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:35:38,551 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:35:39,088 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:35:39,434 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 46 : click on menu button  
+2023-08-09 15:35:39,470 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 48 : click on logout button 
+2023-08-09 15:35:40,718 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 51 : test case test_orange_login_002 is pass
+2023-08-09 15:48:53,916 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 7 : test case test_orange_title_001 is start 
+2023-08-09 15:48:53,916 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 9 : open Browser 
+2023-08-09 15:48:53,916 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 11 : open url of OrangeHRM
+2023-08-09 15:49:01,306 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 13 : page title is OrangeHRM
+2023-08-09 15:49:01,310 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 15 : taking screenshot
+2023-08-09 15:49:02,758 : test_orange.py : Test_Orange_HRM : test_orange_title_001 : 19 : test case test_orange_title_001 is pass 
+2023-08-09 15:49:04,677 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 30 : test case test_orange_login_002 is start 
+2023-08-09 15:49:04,677 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 32 : open browser
+2023-08-09 15:49:04,677 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 34 : open url of orange Hrm 
+2023-08-09 15:49:17,515 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 36 : entering user name  
+2023-08-09 15:49:18,616 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 38 : entering password 
+2023-08-09 15:49:18,676 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 40 : click login button 
+2023-08-09 15:49:18,730 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 42 : checking loging status 
+2023-08-09 15:49:21,254 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 44 : taking screenshot
+2023-08-09 15:49:21,588 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 46 : click on menu button  
+2023-08-09 15:49:21,685 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 48 : click on logout button 
+2023-08-09 15:49:23,025 : test_orange.py : Test_Orange_HRM : test_orange_login_002 : 51 : test case test_orange_login_002 is pass

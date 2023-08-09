@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:30 test case test_orange_login_002 is start 
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:32 open browser
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:34 open url of orange Hrm 
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:36 entering user name  
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:38 entering password 
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:40 click login button 
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:42 checking loging status 
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:44 taking screenshot
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:46 click on menu button  
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:48 click on logout button 
+[32mINFO    [0m Test_Orange_HRM:test_orange.py:51 test case test_orange_login_002 is pass
