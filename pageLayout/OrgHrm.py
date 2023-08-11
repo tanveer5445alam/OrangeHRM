@@ -37,6 +37,7 @@ class OrangeHRM:
         except:
             return False
     def take_screenshot(self):
+
         self.wait.until(expected_conditions.visibility_of_element_located(self.title_logo_xpath))
 
 

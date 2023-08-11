@@ -1,6 +1,0 @@
-[32mINFO    [0m Test_Orange_HRM:test_orange.py:7 test case test_orange_title_001 is start 
-[32mINFO    [0m Test_Orange_HRM:test_orange.py:9 open Browser 
-[32mINFO    [0m Test_Orange_HRM:test_orange.py:11 open url of OrangeHRM
-[32mINFO    [0m Test_Orange_HRM:test_orange.py:13 page title is OrangeHRM
-[32mINFO    [0m Test_Orange_HRM:test_orange.py:15 taking screenshot
-[32mINFO    [0m Test_Orange_HRM:test_orange.py:19 test case test_orange_title_001 is pass

@@ -1,0 +1,13 @@
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:33 test case test_orange_login_002 is start 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:35 open browser
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:37 open url of orange Hrm 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:40 total number of row 6
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:50 entering user name 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:52 entering password 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:54 click login button 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:56 checking loging status 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:75 taking screenshot
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:77 click on menu button 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:79 click on logout button 
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:82 test case test_orange_login_002 is pass
+[32mINFO    [0m Test_Orange_HRM_DDT:test_orange_ddt.py:83 write data in excel
